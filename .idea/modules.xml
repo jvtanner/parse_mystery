@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../crypto/.idea/crypto.iml" filepath="$PROJECT_DIR$/../crypto/.idea/crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/parse-mystery.iml" filepath="$PROJECT_DIR$/.idea/parse-mystery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stripey-data/.idea/stripey-data.iml" filepath="$PROJECT_DIR$/../stripey-data/.idea/stripey-data.iml" />
+    </modules>
+  </component>
+</project>
